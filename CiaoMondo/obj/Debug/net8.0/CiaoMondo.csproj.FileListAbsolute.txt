@@ -1,0 +1,15 @@
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\obj\Debug\net8.0\CiaoMondo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\obj\Debug\net8.0\CiaoMondo.AssemblyInfoInputs.cache
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\obj\Debug\net8.0\CiaoMondo.AssemblyInfo.cs
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\obj\Debug\net8.0\CiaoMondo.csproj.CoreCompileInputs.cache
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\obj\Debug\net8.0\CiaoMondo.sourcelink.json
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\bin\Debug\net8.0\CiaoMondo.exe
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\bin\Debug\net8.0\CiaoMondo.deps.json
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\bin\Debug\net8.0\CiaoMondo.runtimeconfig.json
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\bin\Debug\net8.0\CiaoMondo.dll
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\bin\Debug\net8.0\CiaoMondo.pdb
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\obj\Debug\net8.0\CiaoMondo.dll
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\obj\Debug\net8.0\refint\CiaoMondo.dll
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\obj\Debug\net8.0\CiaoMondo.pdb
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\obj\Debug\net8.0\CiaoMondo.genruntimeconfig.cache
+C:\Users\Stalin\Documents\Corso DOTNET\CiaoMondo\obj\Debug\net8.0\ref\CiaoMondo.dll
