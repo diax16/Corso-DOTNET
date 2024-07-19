@@ -1,0 +1,15 @@
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\bin\Debug\net8.0\cicli.exe
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\bin\Debug\net8.0\cicli.deps.json
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\bin\Debug\net8.0\cicli.runtimeconfig.json
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\bin\Debug\net8.0\cicli.dll
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\bin\Debug\net8.0\cicli.pdb
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\obj\Debug\net8.0\cicli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\obj\Debug\net8.0\cicli.AssemblyInfoInputs.cache
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\obj\Debug\net8.0\cicli.AssemblyInfo.cs
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\obj\Debug\net8.0\cicli.csproj.CoreCompileInputs.cache
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\obj\Debug\net8.0\cicli.sourcelink.json
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\obj\Debug\net8.0\cicli.dll
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\obj\Debug\net8.0\refint\cicli.dll
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\obj\Debug\net8.0\cicli.pdb
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\obj\Debug\net8.0\cicli.genruntimeconfig.cache
+C:\Users\Stalin\Documents\corso-dotnet\wordspace\cicli\obj\Debug\net8.0\ref\cicli.dll
